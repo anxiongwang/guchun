@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MyConfig>
+  <Server>
+    <IP>212.64.21.19</IP>
+    <Point>8098</Point>
+    <PlayerNum>3</PlayerNum>
+  </Server>
+</MyConfig>
